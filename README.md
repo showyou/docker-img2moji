@@ -1,6 +1,9 @@
-# Žg‚¢•û
+# ä½¿ã„æ–¹
+
 $ docker-compose up -d
+
 $ docker exec -it docker-moji2img_app_1 /bin/bash
 
-[dockerƒRƒ“ƒeƒi“à‚Å]
-$ python src/moji2img.py data/“ü—Í‰æ‘œ–¼ data/o—Í‰æ‘œ–¼ •ÏŠ·•¶Žš—ñ
+[dockerã‚³ãƒ³ãƒ†ãƒŠå†…ã§]
+
+$ python src/moji2img.py data/å…¥åŠ›ç”»åƒå data/å‡ºåŠ›ç”»åƒå å¤‰æ›æ–‡å­—åˆ—
